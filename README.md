@@ -20,6 +20,12 @@ A one-stop hub for GPT Image 2 — curated prompts, recommended repos, communiti
 
 ---
 
+<div align="center">
+<img src="assets/cover.jpg" alt="GPT Image 2 Prompt" width="100%"/>
+</div>
+
+---
+
 ## 📖 关于本项目
 
 > GPT Image 2 的一站式资源导航。这里有**精选 Prompt 合集**、值得关注的**开源仓库**、活跃的**社区**、以及优秀的**创作者**。
