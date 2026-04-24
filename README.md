@@ -177,8 +177,6 @@ Seven principles for writing effective prompts:
 |---|---|
 | [ChatGPT](https://chatgpt.com) | 官方 / Official |
 | [OpenAI API](https://platform.openai.com/docs/guides/images) | API |
-| [Pollo AI](https://pollo.ai) | 第三方 / Third-party |
-| [fal.ai](https://fal.ai) | 第三方 / Third-party |
 
 **API 调用示例 / API example:**
 
